@@ -12,4 +12,7 @@ Step 3:
 Code basic commands for the character like movement and story development
 
 Step 4:
+Code combat
+
+Step 5:
 TBD
